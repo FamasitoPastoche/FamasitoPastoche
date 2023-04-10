@@ -4,4 +4,4 @@
 
 - 🧠 Learning reverse engineering
 - 👨‍🎓 Web Dev student
-- 📊 I know c#
+- 📊 I know Reverse, .Net, Web(Front end, Back end)
